@@ -1,0 +1,17 @@
+Modificaciones de la practica 1
+
+	* Las figuras se usan aplicando un polimorfismo con la clase _Figura, de la que heredan las demas.
+
+	* Se pueden mostrar 3 figuras diferentes, cambiando con las teclas I, O, P:
+		- P: Piramide.
+		- O: Cubo.
+		- I: Icosaedro.
+
+	* Hay 7 modos de visualizacion:
+		- 1: Vertices.
+		- 2: Aristas.
+		- 3: Solido.
+		- 4: Ajedrez.
+		- 5: Vertices de colores aleatorios.
+		- 6: Caras de colores aleatorios.
+		- 7: Caras de colores aleatorios que cambian en cada refresco de pantalla (Fiesta).

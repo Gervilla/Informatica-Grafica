@@ -1,0 +1,38 @@
+Funcionalidades y mejoras
+	
+	* He implementado un arreglo para poder rotar perfiles con un punto en el eje de rotacion
+	  (como puede ser el cono o el ply por rotacion escogido para esta practica).
+
+	* Se pueden mostrar diferentes figuras, cambiando con las teclas:
+		- P: Piramide.
+		- C: Cubo.
+		- I: Icosaedro.
+		- E: Esfera.
+		- K: Cono.
+		- Z: Cilindro.
+		- O: Objeto ply.
+		- R: Objeto ply por rotacion (un arbol de navidad).
+		- A: Objeto animado (un payaso robot).
+		- T: Tablero con textura.
+		- S: Icosaedro para seleccion por caras.
+
+	* Hay 7 modos de visualizacion:
+		- 1: Vertices.
+		- 2: Aristas.
+		- 3: Solido.
+		- 4: Ajedrez.
+		- 5: Vertices de colores aleatorios.
+		- 6: Caras de colores aleatorios.
+		- 7: Caras de colores aleatorios que cambian en cada refresco de pantalla (Fiesta).
+		- 8: Iluminacion.
+		- 9: Iluminacion con suavizado.
+		- 0: Vista ortogonal/Normal.
+
+	* F1: Movimiento positivo de luz 1.
+	* F2: Movimiento negativo de luz 1.
+	* F3: Movimiento positivo de luz 2.
+	* F4: Movimiento negativo de luz 2.
+	* F5: activa y desactiva la animacion.
+
+	* Las teclas * y / aumentan y reducen la velocidad de la animacion.
+	* Las teclas + y - aumentan o disminuyen el zoom en la vista ortogonal.
